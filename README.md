@@ -1,4 +1,4 @@
-# Edutech_project
+# [Edutech_project](https://github.com/EduTechProjects)
 
 ## 📚토킹메이트
 #### 오픽 수험생을 위한 스피킹 연습 웹사이트
